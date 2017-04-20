@@ -21,3 +21,7 @@ H|Hits|
 3B|Triples|
 HR|Homeruns|
 G|Games played|
+
+-----------------
+### Under Construction
+Credible Interval, Hypothesis testing, FDR control, Simulation, Document Formatting
